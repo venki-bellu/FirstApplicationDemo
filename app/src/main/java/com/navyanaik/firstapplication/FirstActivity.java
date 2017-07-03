@@ -33,6 +33,10 @@ public class FirstActivity extends AppCompatActivity {
     }
 
     public void testUpload(){
-        int i=i+1;
+
+        int i=1+1;
+        int ii=2+2;
+        int iii=3+3;
+
     }
 }
